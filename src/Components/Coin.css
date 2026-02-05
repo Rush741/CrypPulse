@@ -1,0 +1,33 @@
+.coin-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.coin-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.coin {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.coin img {
+    margin-top: 27px;
+    height: 33px;
+}
+
+.coin-data {
+    margin-top: 21px;
+    display: flex;
+    gap: 10px;
+}
+
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
